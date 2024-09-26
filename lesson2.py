@@ -44,3 +44,16 @@ print(f"{num:.2f}")
 #store the final amount in a variable
 #print it like "___ USD is the same as ___ CAD".
 #round two 2 decimal places
+
+#EX:
+usd = float(input("How many US Dollars do you have: "))
+conversion_factor = 0.85
+francs = usd*conversion_factor
+rounded_francs = round(francs, 2)
+print(f"{usd}USD is the same as {rounded_francs}CHF")
+
+#string methods
+name = "lee cat"
+print(name.upper())
+print(name.title())
+print(name2.lower())
