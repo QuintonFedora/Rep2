@@ -43,4 +43,4 @@ print(f"{num:.2f}")
 #store the conversion factor in a variable
 #store the final amount in a variable
 #print it like "___ USD is the same as ___ CAD".
-#
+#round two 2 decimal places
