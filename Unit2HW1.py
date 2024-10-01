@@ -13,6 +13,8 @@ print('A game that changes with the choices you make')
 
 print('An adventure game with multiple outcomes')
 
+print('Problem 2'.center(20,'-'))
+
 ASCII_ART = r'''
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++    πππ +++++++++++++++++++++++
@@ -32,3 +34,5 @@ ASCII_ART = r'''
 '''
 
 print(ASCII_ART)
+
+print('Problem 3'.center(20,'-'))
