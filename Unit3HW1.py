@@ -14,3 +14,4 @@ elif cat_age <= 95:
 elif cat_age <= 96:
     print(f"The price of this senior is $85")
 
+#uses Cat_age input to trigger the if/else statements.
