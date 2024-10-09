@@ -53,7 +53,7 @@ def mad_libs():
     )
 
     # date
-    date = f"{month}/{day}/{year[-2:]}"
+    date = f"{month}/{day}/{year}"
 
     # print story
     print(f"\n{name}\n{date}\n{story}")
