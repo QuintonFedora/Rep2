@@ -29,4 +29,4 @@ ASCII_ART = r'''
 print(ASCII_ART)
 print('The Beginning...')
 
-Print("You slowly ")
+Print("You slowly wake up ")
