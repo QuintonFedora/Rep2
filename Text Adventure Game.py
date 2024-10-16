@@ -6,8 +6,7 @@ print('A game that changes with the choices you make')
 
 print('An adventure game with multiple outcomes')
 
-print('Beyond Earth and the Galaxy'.center(51,'-'))
-
+print('Beyond The End'.center(52,'-'))
 ASCII_ART = r'''
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++    πππ +++++++++++++++++++++++
