@@ -54,7 +54,7 @@ if Choice_2 == 1:
     Choice_2p = int(input("Do you stop and inspect injury [press 1] or ignore the light headedness and continue towards the structure? [press 2]?: "))
     if Choice_2p == 1:
         print(f"{Name} stops to inspect the injury and finds that he is bleeding out. In a few minutes {Name} will bleed out.")
-        Choice_2l = int(input("Do you sit down on the ground and accept your fate [press 1] or do you look for a quick fix? [press 2]: )
+        Choice_2l = int(input("Do you sit down on the ground and accept your fate [press 1] or do you look for a quick fix? [press 2]: " ))
     if Choice_2l == 1:
         print("{Name} has accepted their fate and they at peace as they watch the world fade away slowly...")
         exit()
