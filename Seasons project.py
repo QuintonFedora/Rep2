@@ -24,7 +24,7 @@ elif "March" and day > 31:
 
 if month == "April" and day <= 30 and day >= 1:
     print(f"April {day} is in spring")
-elif "April" and day > 30:
+elif "april" and day >= 31:
     print("this is not a valid day. Please try again.")
 
 if month == "May" and day <= 31 and day >= 1:
@@ -66,6 +66,3 @@ if month == "December" and day <= 31 and day >= 1:
     print(f"December {day} is in Winter")
 elif "December" and day > 31:
     print("this is not a valid day. Please try again.")
-
-else:
-    print("This is not valid. Please try again.")
