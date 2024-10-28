@@ -3,6 +3,12 @@
 #Fall = month("September" , + "October" , + "November")
 #Winter = "December", + "January", +"February"
 
+'''
+Name: Quinton Fedora
+Date: 10/28/24
+Assignment: Unit 2 and 3 Project
+'''
+
 user_month = input(" Enter the name of the month: ")
 month = user_month.title()
 day = int(input("Enter the day (1-31): "))
